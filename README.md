@@ -1,7 +1,9 @@
 <h2 align='center'>Hello! I'm a front-end developer and a UX/UI designer!</h2>
-<span align='center'> 
-<img align='center' src="https://media.giphy.com/media/9S9f1urFr3FxC/giphy.gif" width="230">
-</span> 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/9S9f1urFr3FxC/giphy.gif" width="230">
+</p>
+
 <p align='center'><em>Freelancer and student at <a href="https://openclassrooms.com/">OpenClassrooms</a> 
 </em></p>
 
