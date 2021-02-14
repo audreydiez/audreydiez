@@ -6,7 +6,7 @@
 
 <span align='center'> 
 
-[![Linkedin: anmol](https://img.shields.io/badge/-AudreyDiez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/audrey-diez-5862345b/)](https://www.linkedin.com/in/audrey-diez-5862345b//)
+[![Linkedin: audrey-diez-5862345b](https://img.shields.io/badge/-AudreyDiez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/audrey-diez-5862345b/)](https://www.linkedin.com/in/audrey-diez-5862345b//)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.audreydiez.com/)](https://www.audreydiez.com/)
 ![](https://visitor-badge.glitch.me/badge?page_id=audreydiez.audreydiez)
 
@@ -43,10 +43,7 @@ const life = {
 ```
 
 ---
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-680-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 ** My Business Card ** 
 
