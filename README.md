@@ -1,7 +1,8 @@
-<h2>Hello! I'm a front-end developer and a UX/UI designer!</h2>
-
+<h2 align='center'>Hello! I'm a front-end developer and a UX/UI designer!</h2>
+<span align='center'> 
 <img align='center' src="https://media.giphy.com/media/9S9f1urFr3FxC/giphy.gif" width="230">
-<p align='center'><em>Freelancer and student at <a href="http://www.cleartax.in">OpenClassrooms</a> 
+</span> 
+<p align='center'><em>Freelancer and student at <a href="https://openclassrooms.com/">OpenClassrooms</a> 
 </em></p>
 
 <span align='center'> 
