@@ -18,30 +18,30 @@
 ### <img src="https://media.giphy.com/media/HRjhC00AXR3H2/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const life = {   
-    code: ["Javascript", "Typescript", "php"],
+const happinessHandler = {   
+    code: ["javascript", "typescript", "SCSS", "PHP", [insert other language to try] ],
     technologies: {
-        mobileApp: ["Cordova, ionic"],
+        mobileApp: ["React Native", "Cordova", "Ionic"],
         frontEnd: {
-            js: ["Vue", "Nuxt", "React"],
-            css: ["custom", "bootstrap"]
+            js: ["React", "Vuejs", "Nuxtjs", "Nextjs"],
+            css: ["DIY first!", "Bootstrap", "Tailwind", [insert other framework]]
         },
         backEnd: {
-            js: ["node"]
+            js: ["Nodejs", "MongoDB", "Firebase", "Supabase"]
         },
-        devOps: ["AWS"],
-        databases: ["mongo", "MySql"]
+        devOps: ["AWS", "Netlify"],
+        databases: ["MongoDB", "MySql"]
     },
     design: {
-            UX: ["users survey, users testing, wireframes"],
+            UX: ["users survey", "users testing", "wireframes"],
             UI: {
-                interfaces: ["XD, Sketch", "Figma"],
+                interfaces: ["XD", "Sketch", "Figma"],
                 graphism: ["Photoshop", "Illustrator", "Procreate"],
                 video: ["After effect"]
             }            
     },
     Hobbies: ["workout", "drawing", "3D printing", "multiplayeur games"],
-    also_me: "Happiness, jokes, competitivity, positivity :)"
+    also_me: "Happiness, jokes, competitivity, positivity, adventures :)"
 };
 ```
 
