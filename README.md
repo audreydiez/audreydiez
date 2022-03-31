@@ -19,7 +19,7 @@
 
 ```javascript
 const happinessHandler = {   
-    code: ["javascript", "typescript", "SCSS", "PHP", [insert other language to try] ],
+    code: ["javascript", "typescript", "SCSS", [insert other language to try] ],
     technologies: {
         mobileApp: ["React Native", "Cordova", "Ionic"],
         frontEnd: {
@@ -27,7 +27,7 @@ const happinessHandler = {
             css: ["DIY first!", "Bootstrap", "Tailwind", [insert other framework]]
         },
         backEnd: {
-            js: ["Nodejs", "MongoDB", "Firebase", "Supabase"]
+            js: ["Nodejs", "Nestjs", "Express"]
         },
         devOps: ["AWS", "Netlify"],
         databases: ["MongoDB", "MySql"]
