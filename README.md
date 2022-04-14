@@ -1,4 +1,4 @@
-<h2 align='center'>Hello! I'm a front-end developer and a UX/UI designer!</h2>
+<h2 align='center'>Hello! I'm a front-end developer, UX/UI designer and mentor!</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/9S9f1urFr3FxC/giphy.gif" width="230">
