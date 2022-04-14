@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/9S9f1urFr3FxC/giphy.gif" width="230">
 </p>
 
-<p align='center'><em>Freelancer and student at <a href="https://openclassrooms.com/">OpenClassrooms</a> 
+<p align='center'><em>Freelancer and Mentor at <a href="https://openclassrooms.com/">OpenClassrooms</a> 
 </em></p>
 
 <span align='center'> 
