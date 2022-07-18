@@ -19,18 +19,19 @@
 
 ```javascript
 const happinessHandler = {   
-    code: ["javascript", "typescript", "SCSS", [insert other language to try] ],
+    code: ["javascript", "PHP", "SCSS", "Java__deprecated", ["insert other language to try"] ],
     technologies: {
         mobileApp: ["React Native", "Cordova", "Ionic"],
         frontEnd: {
             js: ["React", "Vuejs", "Nuxtjs", "Nextjs"],
-            css: ["DIY first!", "Bootstrap", "Tailwind", [insert other framework]]
+            css: ["DIY forever", "Bootstrap", "Tailwind"]
         },
         backEnd: {
             js: ["Nodejs", "Nestjs", "Express"]
         },
         devOps: ["AWS", "Netlify"],
-        databases: ["MongoDB", "MySql"]
+        databases: ["MongoDB", "MySql"],
+        CMS: ["Wordpress - installation / theming / custom"]
     },
     design: {
             UX: ["users survey", "users testing", "wireframes"],
@@ -40,7 +41,7 @@ const happinessHandler = {
                 video: ["After effect"]
             }            
     },
-    Hobbies: ["workout", "drawing", "3D printing", "multiplayeur games"],
+    Hobbies: ["workout", "drawing", "3D printing", "mmorpg"],
     also_me: "Happiness, jokes, competitivity, positivity, adventures :)"
 };
 ```
