@@ -19,19 +19,19 @@
 
 ```javascript
 const happinessHandler = {   
-    code: ["javascript", "PHP", "SCSS", "Java__deprecated", ["insert other language to try"] ],
+    code: ["javascript", "PHP", "Typescript", "Java__deprecated", ["insert other language to try"] ],
     technologies: {
         mobileApp: ["React Native", "Cordova", "Ionic"],
         frontEnd: {
             js: ["React", "Vuejs", "Nuxtjs", "Nextjs"],
-            css: ["DIY forever", "Bootstrap", "Tailwind"]
+            css: ["Design System", "Sass", "Bootstrap", "Tailwind"]
         },
         backEnd: {
             js: ["Nodejs", "Nestjs", "Express"]
         },
         devOps: ["AWS", "Netlify"],
         databases: ["MongoDB", "MySql"],
-        CMS: ["Wordpress - installation / theming / custom"]
+        CMS: ["Wordpress - installation / theming / custom / plugin / Headless"]
     },
     design: {
             UX: ["users survey", "users testing", "wireframes"],
@@ -51,7 +51,7 @@ const happinessHandler = {
 
 ** My Business Card ** 
 
-> 💼 Open to work (Freelancing, missions or long-term)
+> 💼 Open to work (Freelancing, missions or long-term) - Love to teach ! 
  > 
 > 📜 Remote working girl ! (also love to meet my coworkers IRL 😊)
  > 
